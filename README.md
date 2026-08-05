@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Khalil 👋
 
-<!--
-**gitkhalil/gitkhalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring AI Engineer** — building my way from software fundamentals to production-grade LLM applications.
 
-Here are some ideas to get you started:
+I come from a **C/C++ background** and have already integrated LLM APIs into small projects. Right now I'm going deep on Python and modern AI engineering, one project at a time — and pushing everything here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently building:** 100 Python projects (games, automation, web apps, data science) via the *100 Days of Code* bootcamp
+- 🧠 **Learning next:** NLP, Transformers, LLMs, LangChain & Hugging Face
+- 🌱 **Focus:** turning working prototypes into clean, deployable applications
+- 📫 **Reach me:** khkhmo123@gmail.com
+- 📍 Based in Germany
+
+#### 🛠️ Tech I'm working with
+`Python` · `Git` · `Flask` · `Pandas` · `NumPy` · `REST APIs` · `C / C++`
+
+#### 📌 Featured projects
+_(Coming soon — my strongest projects will be pinned here)_
+
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gitkhalil&show_icons=true&hide_border=true)
