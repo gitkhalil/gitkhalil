@@ -15,6 +15,3 @@ I come from a **C/C++ background** and have already integrated LLM APIs into sma
 
 #### 📌 Featured projects
 _(Coming soon — my strongest projects will be pinned here)_
-
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gitkhalil&show_icons=true&hide_border=true)
